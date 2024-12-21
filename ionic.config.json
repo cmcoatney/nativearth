@@ -1,0 +1,7 @@
+{
+  "name": "NativEarthWebTools",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
